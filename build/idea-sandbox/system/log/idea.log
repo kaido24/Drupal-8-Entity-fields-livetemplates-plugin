@@ -212,3 +212,39 @@ Max     duration: 0ms (it was 'null')
 2019-09-02 12:57:47,218 [   3868]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=492; buffer=10; max=492 
 2019-09-02 12:57:47,294 [   3944]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /Users/kaido/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.2.1/301f1c6520e1bee7f89a8b129cd983fe524b4ba5/ideaIC-2019.2.1/bin/mac/fsnotifier 
 2019-09-02 12:57:47,304 [   3954]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2019-09-02 12:57:51,041 [   7691]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2019-09-02 12:57:51,043 [   7693]   WARN - j.internal.DebugAttachDetector - Unable to start DebugAttachDetector, please add `--add-exports=java.base/jdk.internal.vm=ALL-UNNAMED` to VM options 
+2019-09-02 12:57:51,068 [   7718]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63344 
+2019-09-02 12:57:51,329 [   7979]   INFO - il.indexing.FileBasedIndexImpl - File index extensions iterated:157 
+2019-09-02 12:57:51,914 [   8564]   INFO - tellij.diagnostic.LoadingPhase - Reached FRAME_SHOWN loading phase 
+2019-09-02 12:57:52,514 [   9164]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-09-02 12:57:53,081 [   9731]   INFO - pl$FileIndexDataInitialization - Initialization done:1909 
+2019-09-02 12:57:53,267 [   9917]   INFO - exImpl$StubIndexInitialization - Initialization done:186 
+2019-09-02 12:57:53,413 [  10063]   INFO - j.ide.ui.OptionsTopHitProvider - 1749 ms spent to cache options in application 
+2019-09-02 12:57:54,964 [  11614]   WARN - m.intellij.ui.svg.MyTranscoder - data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAANCAYAAABlyXS1AAAABGdBTUEAALGOGCHvlwAAAIFJREFUGBljZICChr2//8PZzqyMIDYTTODvPwaGeicWBhANAyyVOyE6/kAFQTRIjBGkt3T77//YAEicsWgrwq5eLxaG4m1/YKYi6LzNEBNANEyUBcb49Y+RIXPTPwZGhBthUtSmGSOX/4E7AN1wFpCnV0Uxo4szhC37y8AYuBi3TgBcTUygmoWuKgAAAABJRU5ErkJggg== url.uninterpretable 
+2019-09-02 12:58:12,257 [  28907]   INFO - rationStore.ComponentStoreImpl - Saving appDaemonCodeAnalyzerSettings took 20 ms 
+2019-09-02 12:58:12,915 [  29565]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-09-02 12:58:12,923 [  29573]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-09-02 12:58:12,923 [  29573]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-09-02 12:58:12,979 [  29629]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-09-02 12:58:12,982 [  29632]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-09-02 12:58:12,986 [  29636]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2019-09-02 12:58:12,993 [  29643]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2019-09-02 12:58:12,994 [  29644]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-09-02 12:58:12,999 [  29649]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-09-02 12:58:13,002 [  29652]   INFO - plication.impl.ApplicationImpl - Write action Statistics:
+Event number:     1
+Total time spent: 22ms
+Average duration: 22ms
+Median  duration: 0ms
+Max     duration: 22ms (it was 'write action (class com.intellij.openapi.vfs.newvfs.RefreshSessionImpl$$Lambda$635/0x00000008008da840)') 
+2019-09-02 12:58:13,003 [  29653]   INFO - plication.impl.ApplicationImpl - AnAction.update() Statistics:
+Event number:     0
+Total time spent: 0ms
+Average duration: 0ms
+Median  duration: 0ms
+Max     duration: 0ms (it was 'null') 
+2019-09-02 12:58:13,003 [  29653]   INFO - plication.impl.ApplicationImpl - Global instance threads created counter = 5; ProcessIOExecutorService threads: 3 
+2019-09-02 12:58:13,004 [  29654]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-09-02 12:58:13,005 [  29655]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
