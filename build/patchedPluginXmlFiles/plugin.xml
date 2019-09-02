@@ -5,7 +5,7 @@
       &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
   <idea-version since-build="192.6262" until-build="192.*"/>
   <id>kaido24.Drupal8EntityFields</id>
-  <name>Drupal 8 Entity field</name>
+  <name>Drupal 8 Entity fields</name>
   <vendor email="info@webpro.ee" url="http://www.webpro.ee">Veebiarendaja OÜ</vendor>
   <description>
     Drupal 8 Entity fields live template creation plugin.

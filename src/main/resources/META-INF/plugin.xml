@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>kaido24.Drupal8EntityFields</id>
-    <name>Drupal 8 Entity field</name>
+    <name>Drupal 8 Entity fields</name>
     <vendor email="info@webpro.ee" url="http://www.webpro.ee">Veebiarendaja OÜ</vendor>
 
     <description><![CDATA[
