@@ -1,0 +1,19 @@
+<idea-plugin>
+  <version>1.0</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="192.6262" until-build="192.*"/>
+  <id>kaido24.Drupal8EntityFields</id>
+  <name>Drupal 8 Entity field</name>
+  <vendor email="info@webpro.ee" url="http://www.webpro.ee">Veebiarendaja OÜ</vendor>
+  <description>
+    Drupal 8 Entity fields live template creation plugin.
+    </description>
+  <depends>com.intellij.modules.lang</depends>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <defaultLiveTemplatesProvider implementation="Drupal8EntityFieldsTemplateProvider"/>
+  </extensions>
+  <actions/>
+</idea-plugin>

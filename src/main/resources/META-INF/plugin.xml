@@ -1,0 +1,25 @@
+<idea-plugin>
+    <id>kaido24.Drupal8EntityFields</id>
+    <name>Drupal 8 Entity field</name>
+    <vendor email="info@webpro.ee" url="http://www.webpro.ee">Veebiarendaja OÜ</vendor>
+
+    <description><![CDATA[
+    Drupal 8 Entity fields live template creation plugin.
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products
+    <depends>com.intellij.modules.lang</depends>
+    -->
+    <depends>com.intellij.modules.lang</depends>
+    <depends>com.intellij.modules.platform</depends>
+    <extensions defaultExtensionNs="com.intellij">
+        <defaultLiveTemplatesProvider implementation="Drupal8EntityFieldsTemplateProvider"/>
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
